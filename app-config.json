@@ -1,0 +1,16 @@
+{
+  "siteVersionForP1": 1509,
+  "marketVersionForP1": 1509,
+  "rustoreVersionForP1": 1509,
+  "iosVersionForP1": 1045,
+  "isShowSimButton": false,
+  "isShowTanpinButton": false,
+    "features": {
+    "snow": {
+      "enable_if": false
+    },
+    "auth2":{
+      "enable_if": false
+    }
+  }
+}
